@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sistema de Gestion de Ventas</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="error_invalid_email">Correo Inválido</string>
+    <string name="error_invalid_password">La Contraseña es muy corta</string>
+    <string name="error_incorrect_password">Contraseña Incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="action_sign_in_short">Entrar al Sistema</string>
+    <string name="title_item_list">Usuarios</string>
+    <string name="title_item_detail">Detalle Usuario</string>
+
+    <string name="navigation_drawer_open">Abrir Navegación</string>
+    <string name="navigation_drawer_close">Cerrar Navegación</string>
+
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_main">Sistema de Gestión de Ventas</string>
+</resources>
